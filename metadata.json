@@ -1,0 +1,6 @@
+{
+  "name": "Bahai Library",
+  "description": "Clean, super-organized library management system with multi-regional cataloging, borrowers tracking, barcode generation & scanning, automated overdue email reminders, and cloud device sync.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
